@@ -18,7 +18,6 @@ class ViewController: UIViewController, ARSCNViewDelegate {
     var y = 0.0
     var z = 0.0
     
-    //************ The only function I touched. The rest is template code
     override func viewDidLoad() {
         super.viewDidLoad()
         
