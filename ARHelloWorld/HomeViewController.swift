@@ -6,7 +6,6 @@
 //  Copyright © 2020 Kim, Thang Lang. All rights reserved.
 //
 
-<<<<<<< HEAD
 
 //********************** READ ME ********************************
 //The following code is commented. I tried to make this very easy to follow
@@ -54,7 +53,6 @@ class HomeViewController: UIViewController, CLLocationManagerDelegate {
         var check2 = Double(yCord.text!)
         var check3 = Double(zCord.text!)
         
-<<<<<<< HEAD
         if (check1 != nil && check2 != nil && check3 != nil){ //This just checks if the values inside the textbox are valid
             self.x = check1!;
             self.y = check2!;
